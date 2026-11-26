@@ -1,0 +1,9 @@
+1
+00:00:00,300 --> 00:00:02,800
+These captions were burned in
+with free local tools.
+
+2
+00:00:03,000 --> 00:00:05,700
+No API keys. No credits.
+Just ffmpeg and an SRT file.
